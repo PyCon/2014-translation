@@ -33,9 +33,9 @@ For the CMS pages:
 
 A) First option
 
-1. Pick a task in the translation milestone:
+1. Pick a task:
 
-https://github.com/PyCon/2014/issues?milestone=19&state=open
+https://github.com/PyCon/2014-translation/issues?state=open
 
 2. Translate it by just adding the equivalent in french in the ticket itself !
 
@@ -47,7 +47,7 @@ B) Second option (but you need to have access to the django admin of the website
 
 2. Pick an issue in the translation milestone:
 
-https://github.com/PyCon/2014/issues?milestone=19&state=open
+https://github.com/PyCon/2014-translation/issues?state=open
 
 3. Head your browser to: https://us.pycon.org/2014/admin/cms/page/
 
