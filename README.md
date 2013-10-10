@@ -52,3 +52,6 @@ https://github.com/PyCon/2014-translation/issues?state=open
 3. Head your browser to: https://us.pycon.org/2014/admin/cms/page/
 
 4. Translate !
+
+
+If you have any question, just email me: mathieu@montrealpython.org or @mlhamel !
